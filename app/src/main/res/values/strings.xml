@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuessTheLanguage</string>
+    <string name="app_logo">App Logo</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="question_number">Question %1$d/%2$d</string>
+    <string name="finish">Finish</string>
+    <string name="score_title">Score</string>
+    <string name="score">%1$d/%2$d</string>
+    <string name="return_to_main">Return to main screen</string>
+    <string name="loading_questions_error">There was a problem loading the questions. Please check your Internet connection and try again later.</string>
+</resources>
